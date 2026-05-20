@@ -1,0 +1,9 @@
+--Machine Learning is not  a magic its a maths that learns from experience.
+
+
+What is Regression ?
+--Regression is a way to predict a number 
+-- Regression is about finding patterns in numbers so we can make smart predictions
+
+
+Linear Regression 
