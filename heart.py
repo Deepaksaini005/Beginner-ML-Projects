@@ -6,7 +6,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Load the dataset
-data = pd.read_csv('heart.csv')
+data = pd.read_csv('./heart.csv')
 
 #top 3 and bottom 3 rows of the dataset
 print(data.head(3))
