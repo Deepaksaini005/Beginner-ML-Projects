@@ -1,0 +1,9 @@
+1. Model → Ford Car Brand         - USE
+2. Year → Production Year         -USE
+3. Price → Price of the Car in $          - Predication
+4. Transmission → Automatic, Manual, Semi-Auto
+5. Mileage→ Number of Miles Traveled                   - USE 
+6. Fuel Type → Petrol, Diesel, Hybrid, Electric, Other       - USE
+7. Tax→ Annual Tax
+8. MPG → Miles per Gallon
+9. Engine Size → Car Engine Size                 - USE
