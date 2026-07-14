@@ -1,0 +1,11 @@
+Income,Credit_Score,Loan_Status
+25000,500,Rejected
+30000,550,Rejected
+35000,580,Rejected
+40000,620,Approved
+45000,650,Approved
+50000,700,Approved
+55000,730,Approved
+60000,760,Approved
+28000,520,Rejected
+47000,680,Approved
